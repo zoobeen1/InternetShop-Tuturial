@@ -5,7 +5,7 @@ import {
   LOGIN_ROUTE,
   REGISTRATION_ROUTE,
   SHOP_ROUTE,
-} from 'utils/consts';
+} from 'utils/rout_consts';
 import Admin from 'pages/Admin';
 import Basket from 'pages/Basket';
 import Shop from 'pages/Shop';
